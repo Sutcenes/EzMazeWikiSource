@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="ezmaze" version="4">
+  <OBJECT>
+    <ID name="ezmaze" mc="Standard.Package" uid="1d48283b-2c51-4a74-9556-7d9e47be66ae"/>
+    <PID name="EzMaze" mc="Standard.Project" uid="ebef7201-65af-45f3-b24a-65e218b65a1d"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[ezmaze]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="ApplicationListener" mc="Standard.Interface" uid="86b67686-7d97-43d2-93db-acfd60e6b3d8"/>
+        <COMPID name="EzMazeMain" mc="Standard.Class" uid="7e170847-f97b-489a-b9fe-66e9b56f8c53"/>
+        <COMPID name="Assets" mc="Standard.Class" uid="4f8cfcb9-f468-4be6-b833-7de261fade20"/>
+        <COMPID name="WorldRenderer" mc="Standard.Class" uid="2a94d638-76e1-46eb-a393-515598f95cfa"/>
+        <COMPID name="WorldController" mc="Standard.Class" uid="fd2e21b7-6e18-4c9b-a9b7-3f8297ad4318"/>
+        <COMPID name="CameraHelper" mc="Standard.Class" uid="f47f81ec-5771-46a1-ab4c-95cb900732ed"/>
+        <COMPID name="Level" mc="Standard.Class" uid="9f951a13-ae39-4284-9f6a-7304b9fcf27e"/>
+        <COMPID name="AbstractGameObject" mc="Standard.Class" uid="304f53bc-0f62-4316-bd44-a6389e010973"/>
+        <COMPID name="Personnages" mc="Standard.Class" uid="eaa4ec7c-28e5-4c8c-bba7-05786f16d3a0"/>
+        <COMPID name="Murs" mc="Standard.Class" uid="b3e7dacd-6f1b-4c53-a1ff-86e892ccf8cf"/>
+        <COMPID name="Cases" mc="Standard.Class" uid="e0cfcc16-6b93-46f5-9e78-59fa89c40a99"/>
+        <COMPID name="AssetThesee" mc="Standard.Class" uid="5a106baf-038b-441e-b7cf-7418ff9b7395"/>
+        <COMPID name="AssetMur" mc="Standard.Class" uid="6ea0b792-b644-4c99-a788-b95d869147ac"/>
+        <COMPID name="AssetCase" mc="Standard.Class" uid="ecade0bf-3340-4963-a059-ea847833fbb6"/>
+        <COMPID name="Monstre" mc="Standard.Class" uid="c4052f8e-33e1-44d3-81b2-679afa45f4c5"/>
+        <COMPID name="AssetPoliceEcriture" mc="Standard.Class" uid="dce09904-5fb5-4a12-95fd-804267cbcaa4"/>
+        <COMPID name="AssetMonstre" mc="Standard.Class" uid="ff2cf98a-a4b3-4b34-955d-9c5f5c815311"/>
+      </COMP>
+      <COMP relation="Product">
+        <COMPID name="ezmaze Class diagram" mc="Standard.ClassDiagram" uid="4b07498e-aac0-4258-812f-912b75449700"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

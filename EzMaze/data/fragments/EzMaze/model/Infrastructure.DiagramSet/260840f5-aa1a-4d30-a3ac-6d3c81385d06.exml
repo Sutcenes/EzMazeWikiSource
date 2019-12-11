@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="EzMaze" version="4">
+  <OBJECT>
+    <ID name="EzMaze" mc="Infrastructure.DiagramSet" uid="260840f5-aa1a-4d30-a3ac-6d3c81385d06"/>
+    <PID name="EzMaze" mc="Standard.Project" uid="ebef7201-65af-45f3-b24a-65e218b65a1d"/>
+    <ATTRIBUTES>
+      <ATT name="Name"><![CDATA[EzMaze]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES></DEPENDENCIES>
+  </OBJECT>
+</EXT>
