@@ -108,7 +108,7 @@
           </ATTRIBUTES>
           <DEPENDENCIES>
             <LINK relation="Type">
-              <FOREIGNID name="string" mc="Standard.DataType" uid="00000004-0000-000d-0000-000000000000"/>
+              <ID name="Vector2" mc="Standard.Class" uid="43c46df9-1a2f-4e33-9b34-2a44e65cc3cd"/>
             </LINK>
           </DEPENDENCIES>
         </OBJECT>
@@ -132,7 +132,7 @@
           </ATTRIBUTES>
           <DEPENDENCIES>
             <LINK relation="Type">
-              <FOREIGNID name="string" mc="Standard.DataType" uid="00000004-0000-000d-0000-000000000000"/>
+              <ID name="Vector2" mc="Standard.Class" uid="43c46df9-1a2f-4e33-9b34-2a44e65cc3cd"/>
             </LINK>
           </DEPENDENCIES>
         </OBJECT>
@@ -156,7 +156,7 @@
           </ATTRIBUTES>
           <DEPENDENCIES>
             <LINK relation="Type">
-              <FOREIGNID name="string" mc="Standard.DataType" uid="00000004-0000-000d-0000-000000000000"/>
+              <ID name="Vector2" mc="Standard.Class" uid="43c46df9-1a2f-4e33-9b34-2a44e65cc3cd"/>
             </LINK>
           </DEPENDENCIES>
         </OBJECT>
@@ -180,7 +180,7 @@
           </ATTRIBUTES>
           <DEPENDENCIES>
             <LINK relation="Type">
-              <FOREIGNID name="string" mc="Standard.DataType" uid="00000004-0000-000d-0000-000000000000"/>
+              <ID name="Vector2" mc="Standard.Class" uid="43c46df9-1a2f-4e33-9b34-2a44e65cc3cd"/>
             </LINK>
           </DEPENDENCIES>
         </OBJECT>
@@ -204,7 +204,7 @@
           </ATTRIBUTES>
           <DEPENDENCIES>
             <LINK relation="Type">
-              <FOREIGNID name="string" mc="Standard.DataType" uid="00000004-0000-000d-0000-000000000000"/>
+              <ID name="Vector2" mc="Standard.Class" uid="43c46df9-1a2f-4e33-9b34-2a44e65cc3cd"/>
             </LINK>
           </DEPENDENCIES>
         </OBJECT>
@@ -228,7 +228,7 @@
           </ATTRIBUTES>
           <DEPENDENCIES>
             <LINK relation="Type">
-              <FOREIGNID name="string" mc="Standard.DataType" uid="00000004-0000-000d-0000-000000000000"/>
+              <FOREIGNID name="float" mc="Standard.DataType" uid="00000004-0000-000b-0000-000000000000"/>
             </LINK>
           </DEPENDENCIES>
         </OBJECT>
@@ -252,7 +252,7 @@
           </ATTRIBUTES>
           <DEPENDENCIES>
             <LINK relation="Type">
-              <FOREIGNID name="string" mc="Standard.DataType" uid="00000004-0000-000d-0000-000000000000"/>
+              <ID name="Vector2" mc="Standard.Class" uid="43c46df9-1a2f-4e33-9b34-2a44e65cc3cd"/>
             </LINK>
           </DEPENDENCIES>
         </OBJECT>
@@ -276,7 +276,7 @@
           </ATTRIBUTES>
           <DEPENDENCIES>
             <LINK relation="Type">
-              <FOREIGNID name="string" mc="Standard.DataType" uid="00000004-0000-000d-0000-000000000000"/>
+              <ID name="Vector2" mc="Standard.Class" uid="43c46df9-1a2f-4e33-9b34-2a44e65cc3cd"/>
             </LINK>
           </DEPENDENCIES>
         </OBJECT>
@@ -300,7 +300,7 @@
           </ATTRIBUTES>
           <DEPENDENCIES>
             <LINK relation="Type">
-              <FOREIGNID name="string" mc="Standard.DataType" uid="00000004-0000-000d-0000-000000000000"/>
+              <ID name="Vector2" mc="Standard.Class" uid="43c46df9-1a2f-4e33-9b34-2a44e65cc3cd"/>
             </LINK>
           </DEPENDENCIES>
         </OBJECT>
@@ -324,7 +324,7 @@
           </ATTRIBUTES>
           <DEPENDENCIES>
             <LINK relation="Type">
-              <FOREIGNID name="string" mc="Standard.DataType" uid="00000004-0000-000d-0000-000000000000"/>
+              <ID name="Vector2" mc="Standard.Class" uid="43c46df9-1a2f-4e33-9b34-2a44e65cc3cd"/>
             </LINK>
           </DEPENDENCIES>
         </OBJECT>
@@ -348,7 +348,7 @@
           </ATTRIBUTES>
           <DEPENDENCIES>
             <LINK relation="Type">
-              <FOREIGNID name="string" mc="Standard.DataType" uid="00000004-0000-000d-0000-000000000000"/>
+              <ID name="Rectangle" mc="Standard.Class" uid="c3c500f8-60f1-429d-9a40-8b5ce74ad426"/>
             </LINK>
           </DEPENDENCIES>
         </OBJECT>

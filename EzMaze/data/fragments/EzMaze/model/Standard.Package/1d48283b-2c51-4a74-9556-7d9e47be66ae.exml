@@ -31,6 +31,13 @@
         <COMPID name="Monstre" mc="Standard.Class" uid="c4052f8e-33e1-44d3-81b2-679afa45f4c5"/>
         <COMPID name="AssetPoliceEcriture" mc="Standard.Class" uid="dce09904-5fb5-4a12-95fd-804267cbcaa4"/>
         <COMPID name="AssetMonstre" mc="Standard.Class" uid="ff2cf98a-a4b3-4b34-955d-9c5f5c815311"/>
+        <COMPID name="Rectangle" mc="Standard.Class" uid="c3c500f8-60f1-429d-9a40-8b5ce74ad426"/>
+        <COMPID name="AssetManager" mc="Standard.Class" uid="29640259-351f-4fb3-84f7-de60fec178b9"/>
+        <COMPID name="AtlasRegion" mc="Standard.Class" uid="1a283558-818b-49db-ba77-542a471120e5"/>
+        <COMPID name="SpriteBatch" mc="Standard.Class" uid="5b50d85a-7721-44c7-94cc-3ae4c63e9d94"/>
+        <COMPID name="OrthographicCamera" mc="Standard.Class" uid="64565953-208b-4127-97cb-61c785533389"/>
+        <COMPID name="Vector2" mc="Standard.Class" uid="43c46df9-1a2f-4e33-9b34-2a44e65cc3cd"/>
+        <COMPID name="TextureRegion" mc="Standard.Class" uid="70e6f654-470d-488e-9dd6-637eeb9faa5d"/>
       </COMP>
       <COMP relation="Product">
         <COMPID name="ezmaze Class diagram" mc="Standard.ClassDiagram" uid="4b07498e-aac0-4258-812f-912b75449700"/>

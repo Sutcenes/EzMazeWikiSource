@@ -148,7 +148,11 @@
             <ATT name="Name"><![CDATA[camera]]></ATT>
             <ATT name="status">1970354901745664</ATT>
           </ATTRIBUTES>
-          <DEPENDENCIES></DEPENDENCIES>
+          <DEPENDENCIES>
+            <LINK relation="Type">
+              <ID name="OrthographicCamera" mc="Standard.Class" uid="64565953-208b-4127-97cb-61c785533389"/>
+            </LINK>
+          </DEPENDENCIES>
         </OBJECT>
         <OBJECT>
           <ID name="batch" mc="Standard.Attribute" uid="d8d7d973-34ce-4ca6-9039-6eb61d2e7dd0"/>
@@ -168,7 +172,11 @@
             <ATT name="Name"><![CDATA[batch]]></ATT>
             <ATT name="status">1970354901745664</ATT>
           </ATTRIBUTES>
-          <DEPENDENCIES></DEPENDENCIES>
+          <DEPENDENCIES>
+            <LINK relation="Type">
+              <ID name="SpriteBatch" mc="Standard.Class" uid="5b50d85a-7721-44c7-94cc-3ae4c63e9d94"/>
+            </LINK>
+          </DEPENDENCIES>
         </OBJECT>
         <OBJECT>
           <ID name="worldController" mc="Standard.Attribute" uid="be6ed56b-d025-4d4f-be89-398a5c86728c"/>
@@ -214,7 +222,7 @@
           </ATTRIBUTES>
           <DEPENDENCIES>
             <LINK relation="Type">
-              <FOREIGNID name="string" mc="Standard.DataType" uid="00000004-0000-000d-0000-000000000000"/>
+              <ID name="OrthographicCamera" mc="Standard.Class" uid="64565953-208b-4127-97cb-61c785533389"/>
             </LINK>
           </DEPENDENCIES>
         </OBJECT>

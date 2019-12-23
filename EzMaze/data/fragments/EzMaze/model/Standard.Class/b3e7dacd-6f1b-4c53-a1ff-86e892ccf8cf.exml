@@ -80,7 +80,7 @@
           </ATTRIBUTES>
           <DEPENDENCIES>
             <LINK relation="Type">
-              <FOREIGNID name="string" mc="Standard.DataType" uid="00000004-0000-000d-0000-000000000000"/>
+              <ID name="TextureRegion" mc="Standard.Class" uid="70e6f654-470d-488e-9dd6-637eeb9faa5d"/>
             </LINK>
           </DEPENDENCIES>
         </OBJECT>
